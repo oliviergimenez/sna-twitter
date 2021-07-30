@@ -1,7 +1,6 @@
 ---
 title: "Quick and dirty analysis of my Twitter social network"
-author: "Olivier Gimenez"
-date: "7/26/2021"
+author: "Olivier Gimenez, July 2021"
 output: 
   html_document:
     keep_md: true
